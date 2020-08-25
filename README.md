@@ -1,7 +1,7 @@
 # Complex-Numbers
 Complex number class and functions in C++
 
-### This project contains 3 files:
+### This project contains 1 header and 2 source files:
 **Complex.h** = Header file for declarations of complex number class and functions\
 **Complex.cpp** = Source file containing the definitions of the "Complex.h" file\
 **main.cpp** = Main program code which has some examples on how to use the class
