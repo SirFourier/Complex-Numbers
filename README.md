@@ -1,6 +1,10 @@
 # Complex-Numbers
 Complex number class and functions in C++
 
+### Running
+- This repo can be run straight from visual studio by cloning
+- Or just download the source and header files
+
 ### This project contains 1 header and 2 source files:
 **Complex.h** = Header file for declarations of complex number class and functions\
 **Complex.cpp** = Source file containing the definitions of the "Complex.h" file\
