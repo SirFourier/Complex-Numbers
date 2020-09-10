@@ -2,7 +2,7 @@
 Complex number class and functions in C++
 
 ### Running
-Can be cloned to Microsoft Visual Studio and run from there as there. The main function includes some example functionality.
+Can be cloned to Microsoft Visual Studio and run from there. The main function includes some example functionality.
 
 ### This project contains 1 header and 2 source files:
 **Complex.h** = Header file for declarations of complex number class and functions\
