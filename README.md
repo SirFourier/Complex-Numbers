@@ -1,6 +1,9 @@
 # Complex-Numbers
 Complex number class and functions in C++
 
+### Running
+Can be cloned to Microsoft Visual Studio and run from there. The main function includes some example functionality.
+
 ### This project contains 1 header and 2 source files:
 **Complex.h** = Header file for declarations of complex number class and functions\
 **Complex.cpp** = Source file containing the definitions of the "Complex.h" file\
@@ -36,7 +39,7 @@ A very readable way to display complex numbers in cartesian form is to set a com
   
 This is not recommended because it's implictly converting -3 and 6 to complex numbers which is inefficient.
   
-## How to print complex numbers to the console?
+### How to print complex numbers to the console?
 One can print a Complex object to the console by simply using the std::cout << operation. This will print it out in cartesian form.
 
 **std::cout << C1 << std::endl;**
@@ -54,7 +57,7 @@ Complex numbers can be read from the console using the **>>** operator to be pla
 **Complex input;\
 std::cin >> input;**
 
-## Some fun additionals
+### Some fun additionals
 A complex number can be taken to the power of another complex number.
 
 **Complex result;\
